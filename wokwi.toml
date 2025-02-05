@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "build/EmbarcaTech-Clock-e-Temporizadores_Part_2.uf2"
+elf = "build/EmbarcaTech-Clock-e-Temporizadores_Part_2.elf"
